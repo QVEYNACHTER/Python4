@@ -1,1 +1,2 @@
-# Python4
+Pour ce projet, on m'a chargé de produire une étude de marché avec Python. Je travaille pour une entreprise d'agroalimentaire qui souhaite se développer à l'international et je dois mener l'enquête à partir des données de la FAO pour regrouper les pays à cibler pour exporter notre volaille.
+On m'a demandé de rendre deux notebooks séparément, le premier n'étant que du nettoyage de données, si vous êtes pressé je vous recommande de vous intéresser plutôt au second.
